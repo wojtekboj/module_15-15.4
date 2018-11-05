@@ -1,5 +1,6 @@
 ## Exercises with ES6
 * [General info](#general-info)
+* [Tasks](#tasks)
 * [Technologies](#technologies)
 * [Tools](#tools)
 * [Screen](#screen)
